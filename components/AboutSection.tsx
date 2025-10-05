@@ -5,18 +5,21 @@ export default function AboutSection() {
     <section id="about" className="py-20 bg-gray-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
-          <h2 className="text-4xl font-bold text-gray-900 mb-6">About HAKASSA</h2>
+          <h2 className="text-4xl font-bold text-gray-900 mb-6">About Abubakar Kabir Foundation</h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-            HAKASSA is an education sponsorship initiative by the Member Representing Bichi Federal Constituency, 
-            dedicated to empowering young minds through quality education opportunities.
+            The Abubakar Kabir Foundation is a charitable initiative founded by, Hon, Abubakar Kabir, Member
+            of The House of Representatives, representing Bichi Constituency. <br /> <br />
+            With a strong believe that education is the bedrock of progress, the foundation is dedicated to expanding
+            access to learning opportunities to the people of Bichi. Through it's scholarship programs, the foundation has
+            supported countless students in secondary schools, Nigerian universities, and international institutions abroad.
           </p>
         </div>
 
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div>
             <img 
-              src="https://readdy.ai/api/search-image?query=African%20students%20studying%20together%20in%20modern%20classroom%20with%20books%20and%20laptops%2C%20bright%20natural%20lighting%2C%20diverse%20group%20focused%20on%20learning%2C%20educational%20environment%20with%20motivational%20posters%20on%20walls%2C%20clean%20modern%20school%20setting&width=600&height=400&seq=about-students&orientation=landscape"
-              alt="Students studying together"
+              src="./abba.jpg"
+              alt="A picture of Hon. Member with Prof A.H Bichi"
               className="rounded-xl shadow-lg w-full h-80 object-cover object-top"
             />
           </div>
@@ -51,7 +54,7 @@ export default function AboutSection() {
                 </div>
                 <h3 className="text-2xl font-bold text-gray-900 mb-3">Our Impact</h3>
                 <p className="text-gray-600 leading-relaxed">
-                  Over 500 students supported across secondary, tertiary, and international education programs, 
+                  Over 2000 students supported across secondary, tertiary, and international education programs, 
                   creating lasting positive change in the community.
                 </p>
               </div>

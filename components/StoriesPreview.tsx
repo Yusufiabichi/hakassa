@@ -27,7 +27,7 @@ export default function StoriesPreview() {
       name: 'Fatima Abdullahi',
       title: 'Academic Excellence Recognized',
       story: 'HAKASSA secondary school scholarship helped me achieve straight As and secure admission to study Law.',
-      image: 'https://readdy.ai/api/search-image?query=Young%20Nigerian%20female%20student%20in%20graduation%20ceremony%20holding%20law%20degree%20diploma%20with%20pride%2C%20academic%20gown%20and%20cap%2C%20university%20ceremony%20background%20with%20other%20graduates&width=300&height=300&seq=fatima-story&orientation=squarish',
+      image: './sec-std-fml.jpg',
       program: 'Secondary Scholarship',
       year: '2024'
     }

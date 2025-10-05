@@ -7,7 +7,7 @@ export default function HeroSection() {
     <section 
       className="relative min-h-screen flex items-center justify-center bg-cover bg-center bg-no-repeat"
       style={{
-        backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://readdy.ai/api/search-image?query=Young%20African%20students%20celebrating%20graduation%20in%20academic%20gowns%20with%20books%20and%20diplomas%2C%20bright%20sunny%20campus%20background%20with%20modern%20university%20buildings%2C%20hopeful%20and%20inspiring%20atmosphere%2C%20professional%20photography%20style%2C%20vibrant%20colors%20showing%20success%20and%20achievement%20in%20education&width=1920&height=1080&seq=hero-education&orientation=landscape')`
+        backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('./hero.jpg')`
       }}
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-white w-full">
@@ -17,7 +17,7 @@ export default function HeroSection() {
             <span className="text-yellow-400"> Bichi Youth</span>
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-gray-200 leading-relaxed">
-            Unlock your potential with HAKASSA scholarship opportunities. Quality education for secondary, tertiary, and international studies.
+            Unlock your potential with Hon. Abubakar Kabir's scholarship opportunities. Quality education for secondary, tertiary, and international studies.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/apply" className="bg-blue-600 text-white px-8 py-4 rounded-full text-lg font-semibold hover:bg-blue-700 transition-colors cursor-pointer whitespace-nowrap">

@@ -9,7 +9,7 @@ export default function Footer() {
         <div className="grid lg:grid-cols-4 md:grid-cols-2 gap-8">
           <div className="lg:col-span-1">
             <Link href="/" className="font-['Pacifico'] text-2xl text-blue-400 mb-4 block">
-              HAKASSA
+              Abubakar Kabir Foundation
             </Link>
             <p className="text-gray-300 mb-6 leading-relaxed">
               Empowering the future of Bichi youth through quality education and scholarship opportunities.
@@ -71,7 +71,7 @@ export default function Footer() {
               </li>
               <li>
                 <Link href="/apply" className="text-gray-300 hover:text-white transition-colors cursor-pointer">
-                  Tertiary Scholarships
+                  Tertiary(Domestic) Scholarships
                 </Link>
               </li>
               <li>
@@ -121,6 +121,11 @@ export default function Footer() {
             </div>
           </div>
         </div>
+      </div>
+      <div className='flex items-center justify-center mt-5'>
+          <Link href="https://yusufia-portfolio.vercel.app/" target="_blank" className="text-gray-400 hover:text-white text-sm cursor-pointer">
+            Developed by Yusufia Bichi
+          </Link>
       </div>
     </footer>
   );

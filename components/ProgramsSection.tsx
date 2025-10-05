@@ -10,16 +10,16 @@ export default function ProgramsSection() {
       description: 'Full and partial scholarships for outstanding students to complete their secondary education in top institutions.',
       icon: 'ri-school-line',
       color: 'blue',
-      image: 'https://readdy.ai/api/search-image?query=Nigerian%20secondary%20school%20students%20in%20uniforms%20studying%20in%20modern%20classroom%20with%20teacher%2C%20bright%20clean%20environment%2C%20books%20and%20educational%20materials%2C%20students%20engaged%20in%20learning%20activities&width=400&height=300&seq=secondary-school&orientation=landscape',
+      image: './sec-std.jpg',
       benefits: ['Tuition Coverage', 'Books & Materials', 'School Uniforms', 'Mentorship Support']
     },
     {
       id: 'tertiary',
-      title: 'Tertiary Scholarships',
+      title: 'Domestic Scholarships',
       description: 'Comprehensive support for university, polytechnic, and college education to pursue higher learning goals.',
       icon: 'ri-graduation-cap-line',
       color: 'green',
-      image: 'https://readdy.ai/api/search-image?query=African%20university%20students%20in%20graduation%20ceremony%20with%20caps%20and%20gowns%20celebrating%20academic%20achievement%2C%20modern%20university%20campus%20background%2C%20joyful%20atmosphere%20with%20diplomas%20and%20success&width=400&height=300&seq=tertiary-education&orientation=landscape',
+      image: './5.jpg',
       benefits: ['Full Tuition', 'Accommodation', 'Living Allowance', 'Career Guidance']
     },
     {
@@ -28,7 +28,7 @@ export default function ProgramsSection() {
       description: 'International education opportunities in prestigious universities worldwide for exceptional students.',
       icon: 'ri-global-line',
       color: 'purple',
-      image: 'https://readdy.ai/api/search-image?query=International%20students%20from%20Africa%20studying%20abroad%20at%20prestigious%20university%20campus%2C%20diverse%20multicultural%20environment%2C%20modern%20buildings%20and%20facilities%2C%20students%20with%20books%20and%20laptops&width=400&height=300&seq=foreign-education&orientation=landscape',
+      image: './airport.jpg',
       benefits: ['Full Funding', 'Visa Support', 'Travel Expenses', 'Cultural Integration']
     }
   ];
