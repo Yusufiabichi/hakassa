@@ -192,7 +192,7 @@ export default function ContactSection() {
           </div>
         </div>
 
-        <div className="mt-16">
+        {/* <div className="mt-16">
           <div className="bg-gray-50 rounded-2xl p-8">
             <h3 className="text-2xl font-bold text-gray-900 mb-4 text-center">Visit Our Office</h3>
             <div className="w-full h-64 bg-gray-200 rounded-lg overflow-hidden">
@@ -207,7 +207,7 @@ export default function ContactSection() {
               ></iframe>
             </div>
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   );
