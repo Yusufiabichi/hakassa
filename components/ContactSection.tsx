@@ -48,7 +48,7 @@ export default function ContactSection() {
                   <div>
                     <h4 className="font-semibold text-gray-900 mb-1">Office Address</h4>
                     <p className="text-gray-600">
-                      HAKASSA Scholarship Program<br/>
+                      LKABF Scholarship Program<br/>
                       Bichi Federal Constituency Office<br/>
                       Kano State, Nigeria
                     </p>
@@ -61,7 +61,7 @@ export default function ContactSection() {
                   </div>
                   <div>
                     <h4 className="font-semibold text-gray-900 mb-1">Phone Number</h4>
-                    <p className="text-gray-600">+234 803 XXX XXXX</p>
+                    <p className="text-gray-600"><a href="tel:234805883818">+234 806 588 3818</a></p>
                   </div>
                 </div>
 

@@ -9,7 +9,7 @@ export default function Footer() {
         <div className="grid lg:grid-cols-4 md:grid-cols-2 gap-8">
           <div className="lg:col-span-1">
             <Link href="/" className="font-['Pacifico'] text-2xl text-blue-400 mb-4 block">
-              Abubakar Kabir Foundation
+              Late Kabir Abubakar Bichi Foundation
             </Link>
             <p className="text-gray-300 mb-6 leading-relaxed">
               Empowering the future of Bichi youth through quality education and scholarship opportunities.
@@ -106,7 +106,7 @@ export default function Footer() {
         <div className="border-t border-gray-700 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm">
-              © 2024 HAKASSA Scholarship Program. All rights reserved.
+              © 2024 LKABF Scholarship Program. All rights reserved.
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <Link href="#" className="text-gray-400 hover:text-white text-sm cursor-pointer">

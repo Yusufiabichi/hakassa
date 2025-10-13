@@ -5,10 +5,10 @@ export default function AboutSection() {
     <section id="about" className="py-20 bg-gray-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
-          <h2 className="text-4xl font-bold text-gray-900 mb-6">About Abubakar Kabir Foundation</h2>
+          <h2 className="text-4xl font-bold text-gray-900 mb-6">About Late Kabir Abubakar Bichi Foundation</h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-            The Abubakar Kabir Foundation is a charitable initiative founded by, Hon, Abubakar Kabir, Member
-            of The House of Representatives, representing Bichi Constituency. <br /> <br />
+            The Late Kabir Abubakar Bichi Foundation is a charitable initiative founded by, Hon. Abubakar Kabir Bichi, Member
+            of The House of Representatives, representing Bichi Constituency. In honor of his father, Late Kabir Abubakar Bichi.<br /> <br />
             With a strong believe that education is the bedrock of progress, the foundation is dedicated to expanding
             access to learning opportunities to the people of Bichi. Through it's scholarship programs, the foundation has
             supported countless students in secondary schools, Nigerian universities, and international institutions abroad.
