@@ -8,6 +8,7 @@ import ProgramsSection from '../components/ProgramsSection';
 import StoriesPreview from '../components/StoriesPreview';
 import ContactSection from '../components/ContactSection';
 import Footer from '../components/Footer';
+import BackToTop from '@/components/BackToTop';
 
 export default function Home() {
   return (
@@ -19,6 +20,7 @@ export default function Home() {
         <ProgramsSection />
         <StoriesPreview />
         <ContactSection />
+        <BackToTop/>
       </main>
       <Footer />
     </div>

@@ -4,6 +4,7 @@ import Header from '../../components/Header';
 import Footer from '../../components/Footer';
 import StoriesGrid from './StoriesGrid';
 import BlogSection from './BlogSection';
+import BackToTop from '@/components/BackToTop';
 
 export default function StoriesPage() {
   return (
@@ -23,6 +24,7 @@ export default function StoriesPage() {
         
         <StoriesGrid />
         <BlogSection />
+        <BackToTop/>
       </main>
       <Footer />
     </div>

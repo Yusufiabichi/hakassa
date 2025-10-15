@@ -20,8 +20,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Hakassa Web",
-  description: "Hakassa, Abubakar Kabir Foundation",
+  title: "LKABF Web",
+  description: "Late: Kabir Abubakar Bichi Foundation",
 };
 
 export default function RootLayout({

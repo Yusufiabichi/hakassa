@@ -17,7 +17,7 @@ export default function Header() {
             width={50}
             height={100}
             />
-            <p className=" hidden md:block font-bold text-2xl text-blue-600">Abubakar Kabir Foundation</p>
+            <p className=" hidden md:block font-bold text-2xl text-blue-600">Late Kabir Abubakar Bichi Foundation</p>
           
           <nav className="hidden md:flex space-x-8">
             <Link href="/" className="text-gray-700 hover:text-blue-600 transition-colors cursor-pointer">

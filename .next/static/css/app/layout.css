@@ -440,6 +440,9 @@ video {
 .invisible{
   visibility: hidden;
 }
+.fixed{
+  position: fixed;
+}
 .absolute{
   position: absolute;
 }
@@ -466,6 +469,12 @@ video {
 }
 .top-4{
   top: 1rem;
+}
+.bottom-6{
+  bottom: 1.5rem;
+}
+.right-6{
+  right: 1.5rem;
 }
 .z-50{
   z-index: 50;
@@ -1183,6 +1192,9 @@ video {
 }
 .duration-300{
   transition-duration: 300ms;
+}
+.ease-in-out{
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 .hover\:bg-blue-700:hover{
   --tw-bg-opacity: 1;
